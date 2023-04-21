@@ -1,0 +1,55 @@
+.container{
+    background-color: rgb(206, 117, 129);
+}
+.profile{
+    border-radius: 50%;
+    border-color: black;
+    border-style: solid;
+    border-width: 6px;
+    width:100px;
+    height:100px;
+}
+.fa-user{
+    font-size: 20px;
+    margin-top: 10px !important;
+    margin-left: 6px !important;
+}
+.para1{
+    border-left-color: black;
+    border-left-width: 5px;
+    border-left-style: solid;
+    
+}
+.name-con{
+    border-bottom-color: black;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+}
+.work-container{
+    border-bottom-color: black;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+}
+.skills{
+    border-left-color: black;
+    border-left-width: 5px;
+    border-left-style: solid;
+    
+}
+.skill{
+    border-bottom-color: black;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+}
+
+.internet{
+    border-radius: 50%;
+    background-color: blueviolet;
+    width:100px;
+    height:100px;
+}
+.inserts-container{
+    border-bottom-color: black;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+}
